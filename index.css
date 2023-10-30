@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url(./images/rural-nature-road-scene-free-vector.jpg);
+    height: 100vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
